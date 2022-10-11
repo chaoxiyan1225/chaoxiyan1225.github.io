@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Personal Profile"
-permalink: /cv/
+permalink: /aboutme
 author_profile: true
 redirect_from:
   - /resume
