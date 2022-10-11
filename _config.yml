@@ -20,21 +20,21 @@ description: 分布式存储|阿里云|数据湖
 
 # List of links in the navigation bar
 navbar-links:
-  主页: "https://zoharandroid.github.io"
+  主页: "https://chaoxiyan1225.github.io"
   博客: 
-   - 分类: "https://zoharandroid.github.io/categories/"
-   - 标签: "https://zoharandroid.github.io/tags/"
+   - 分类: "https://chaoxiyan1225.github.io/categories/"
+   - 标签: "https://chaoxiyan1225.github.io/tags/"
   项目:
-    - GitHub: "https://github.com/ZoharAndroid"
-    - HelloOffer: "https://github.com/ZoharAndroid/HelloOffer"
-    - LeetCode: "https://github.com/ZoharAndroid/LeetCode"
+    - GitHub: "https://github.com/alex-yan"
+    #- HelloOffer: "https://github.com/alex-yan/HelloOffer"
+    #- LeetCode: "https://github.com/ZoharAndroid/LeetCode"
   关于我: "aboutme"
   搜索: "search"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar_round.png"
+avatar: "/img/ycxi.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
