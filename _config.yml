@@ -173,11 +173,6 @@ paginate: 5
 kramdown:
   input: GFM
   
-# Collections
-collections:
-  backup:
-    output: true
-    permalink: /:collection/:path/
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -196,14 +191,6 @@ defaults:
       layout: "page"
       show-avatar: true
       
-  # _backup
-  - scope:
-      path: ""
-      type: backup
-    values:
-      layout: backup
-      author_profile: true
-      share: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
