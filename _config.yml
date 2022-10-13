@@ -172,6 +172,12 @@ paginate: 5
 
 kramdown:
   input: GFM
+  
+# Collections
+collections:
+  backup:
+    output: true
+    permalink: /:collection/:path/
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
