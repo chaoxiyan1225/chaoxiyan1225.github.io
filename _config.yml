@@ -28,7 +28,9 @@ navbar-links:
     - GitHub: "https://github.com/alex-yan"
     #- HelloOffer: "https://github.com/alex-yan/HelloOffer"
     #- LeetCode: "https://github.com/ZoharAndroid/LeetCode"
+  资源备份: "/backup"
   关于我: "aboutme"
+  
   搜索: "search"
   
 
