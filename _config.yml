@@ -24,11 +24,13 @@ navbar-links:
   博客: 
    - 分类: "https://chaoxiyan1225.github.io/categories/"
    - 标签: "https://chaoxiyan1225.github.io/tags/"
-  项目:
+  资源:
     - GitHub: "https://github.com/alex-yan"
+    - 备份: "https://chaoxiyan1225.github.io/tags/#备份"
+    
     #- HelloOffer: "https://github.com/alex-yan/HelloOffer"
     #- LeetCode: "https://github.com/ZoharAndroid/LeetCode"
-  资源备份: "https://chaoxiyan1225.github.io/tags/#backup"
+  
   关于我: "aboutme"
   
   搜索: "search"
