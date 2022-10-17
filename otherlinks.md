@@ -104,13 +104,13 @@ redirect_from:
    [硅角](https://siliconangle.com/category/big-data/)           
    [行政 - 关于 Jeremy Bowers - iRi](http://www.jerf.org/iri/post/2909)           
    [公牛和贝尔德档案馆](https://blog.rwbaird.com/archive)           
-   [加密货币、区块链、比特币、Web3、NFT、元界、加密货币、诈骗的最佳网络特辑 - TravelBloggerBuzz](https://travelbloggerbuzz.com/special-on-all-things-crypto-blockchain-bitcoin-web3-nfts-metaverse-cryptocurrencies-scams/)           
+   [TravelBloggerBuzz-加密货币、区块链、比特币、Web3、NFT、元界、加密货币](https://travelbloggerbuzz.com/special-on-all-things-crypto-blockchain-bitcoin-web3-nfts-metaverse-cryptocurrencies-scams/)           
    [我喜欢的旅游博主 Buzz 博客](https://travelbloggerbuzz.com/blog-reviews/blogs-i-like/)           
    [Justin Jaffray-分布式](https://justinjaffray.com/notes/)           
-   [Distributed Systems Articles | LinkedIn Engineering] (https://engineering.linkedin.com/blog/topic/distributed-systems)           
+   [Distributed Systems Articles LinkedIn Engineering](https://engineering.linkedin.com/blog/topic/distributed-systems)           
    [Felix Blog - Debugging with GDB](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html)           
-   [HackTricks](https://book.hacktricks.xyz/welcome/readme)**重点：黑客book**          
-   [亚马逊AWS官方博客]https://aws.amazon.com/cn/blogs/china/2022all/)            
+   [HackTricks](https://book.hacktricks.xyz/welcome/readme)  **重点：黑客book**          
+   [亚马逊AWS官方博客](https://aws.amazon.com/cn/blogs/china/2022all/)            
    [关于Dynamo的论文](https://2cloudlab.com/nosql/the-dynamo-paper/)           
             
  
