@@ -14,7 +14,7 @@ redirect_from:
 >主要是一些国内的博客或者学校的资源信息随着
 >可惜随着时间的流逝，这部分资源会慢慢消失
 
-  * 一些博客
+  * 一些博客      
     [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)           
     [酷壳 – CoolShell.cn](https://www.coolshell.cn/)           
     [刘未鹏 | Mind Hacks – 思维改变生活](http://mindhacks.cn/)           
@@ -55,65 +55,64 @@ redirect_from:
     [行者无疆 始于足下](http://xiaohanyu.me/about/)           
     [fengchengyuaun的博客](https://zhu45.org/posts/2018/Mar/30/pebblesdb-building-key-value-stores-using-fragmented-log-structured-merge-trees/)          
     [Jekyll简单静态博客网站生成器](http://jekyllcn.com/docs/usage/)          
-    [LRU缓存](https://blog.csdn.net/m0_58058653/article/details/123172483)  
+    [LRU缓存](https://blog.csdn.net/m0_58058653/article/details/123172483)           
     
 # 国外资源
 >国外可能需要翻墙，但是资源都是比较好的
 
  * 一些博客
  
-   [Jenkov.com](http://jenkov.com/) 
-   [Don Knuth&#39;s Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
-   [James Hamilton](https://mvdirona.com/jrh/Work/)  
-   [Why Disaster Happens at the Edges](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
-   [jyt0532&#39;s Blog · Simple Made Easy](http://jyt0532.com/) 
-   [About Me – Software the Hard way](https://software.rajivprab.com/about/) 
-   [MoreFreeze&#39;s Sanctuary](http://morefreeze.github.io/) 
-   [The 10 Most Valuable Lessons I Learned As A Developer](https://blog.oliverjumpertz.dev/the-10-most-valuable-lessons-i-learned-as-a-developer) 
-   [Cassandra Xia](https://cassandraxia.com/) 
-   [The Technium: 103 Bits of Advice I Wish I Had Known](https://enjoyment.cool/archives/Apache-Flink-%E6%BC%AB%E8%B0%88/)
-   [IBM Developer](https://developer.ibm.com/blogs/introducing-stocktrader) 
-   [缓存 | JuiceFS Document Center](https://juicefs.com/docs/zh/cloud/cache/#client-cache-sharing)
-   [Google Interview Round 2 Question | My Ruminations on Software](https://lispmachine.wordpress.com/2018/02/09/google-interview-round-2-question/) 
-   [尼古拉斯·布利亚内](https://nicolasbouliane.com/) 
-   [MTU 忍者 | 文森特·伯纳特](https://vincent.bernat.ch/en/blog) 
-   [Thorsten Ball - 专业编程：前 10 年](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 
-   [山姆奥特曼](https://blog.samaltman.com/archive) 
-   [oracle ADB](http://www.dba-oracle.com/) 
-   [Alex DeBrie - Serverless &amp; AWS](https://www.alexdebrie.com/) 
-   [关于 | 万物分布式-verner vogels](https://www.allthingsdistributed.com/about.html) **重点:amazon CTO**
-   [Introduction to Parallel Computing Tutorial | HPC @ LLNL](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) 
-   [the jsomers.net blog](http://jsomers.net/blog/speed-matters) Speed matters: Why working quickly is more important than it seems « 
-   [詹姆斯·萨默斯](http://jsomers.net/) 
-   [编程和东西](https://refruity.xyz/) 
-   [丹尼尔·米斯勒](https://danielmiessler.com/about/) 
-   [小赖子的英国生活和资讯](https://justyy.com/archives-of-pagesposts) 
-           
-   [The Forty-Year Programmer](https://codefol.io/posts/the-forty-year-programmer/) 
-   [Becoming a Full-Time Creator as a Software Engineer: Controversial Advice - The Pragmatic Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/) **重点：独立创业**
-   [Rootless Root](http://www.catb.org/~esr/writings/unix-koans/index.html)
-   [Tom Gamon | Home](https://tomgamon.com/page/2/) 
-   [Pi from High School Maths — The Art of Machinery](https://theartofmachinery.com/2020/10/26/pi_from_high_school_maths.html)  
-   [Remove unwanted objects from photos by dragging boxes](https://cleanupphotos.com/) 
-   [Jim Blandy](https://www.red-bean.com/~jimb/) 
-   [Welcome to Unicorn&#39;s Rest](http://unicornsrest.org/) 
-   [项目——亚当·沃森](https://adamwathan.me/projects/) 
-   [务实的工程师](https://www.pragmaticengineer.com/) 
-   [Employee Engagement and Change Management Blog](https://www.gapingvoid.com/blog/page/2/)
-   [硅角](https://siliconangle.com/category/big-data/) 
-   [行政 - 关于 Jeremy Bowers - iRi](http://www.jerf.org/iri/post/2909) 
-   [公牛和贝尔德档案馆](https://blog.rwbaird.com/archive) 
-   [加密货币、区块链、比特币、Web3、NFT、元界、加密货币、诈骗的最佳网络特辑 - TravelBloggerBuzz](https://travelbloggerbuzz.com/special-on-all-things-crypto-blockchain-bitcoin-web3-nfts-metaverse-cryptocurrencies-scams/) 
-   [我喜欢的旅游博主 Buzz 博客](https://travelbloggerbuzz.com/blog-reviews/blogs-i-like/) 
-   [Justin Jaffray-分布式](https://justinjaffray.com/notes/) 
-   [Distributed Systems Articles | LinkedIn Engineering] (https://engineering.linkedin.com/blog/topic/distributed-systems) 
-   [Felix Blog - Debugging with GDB](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html) 
-   [HackTricks](https://book.hacktricks.xyz/welcome/readme)**重点：黑客book**
-   [亚马逊AWS官方博客]https://aws.amazon.com/cn/blogs/china/2022all/)  
-   [关于Dynamo的论文](https://2cloudlab.com/nosql/the-dynamo-paper/) 
+   [Jenkov.com](http://jenkov.com/)           
+   [Don Knuth&#39;s Home Page](https://www-cs-faculty.stanford.edu/~knuth/)          
+   [James Hamilton](https://mvdirona.com/jrh/Work/)            
+   [Why Disaster Happens at the Edges](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)          
+   [jyt0532&#39;s Blog · Simple Made Easy](http://jyt0532.com/)           
+   [About Me – Software the Hard way](https://software.rajivprab.com/about/)           
+   [MoreFreeze&#39;s Sanctuary](http://morefreeze.github.io/)           
+   [The 10 Most Valuable Lessons I Learned As A Developer](https://blog.oliverjumpertz.dev/the-10-most-valuable-lessons-i-learned-as-a-developer)           
+   [Cassandra Xia](https://cassandraxia.com/)           
+   [The Technium: 103 Bits of Advice I Wish I Had Known](https://enjoyment.cool/archives/Apache-Flink-%E6%BC%AB%E8%B0%88/)          
+   [IBM Developer](https://developer.ibm.com/blogs/introducing-stocktrader)           
+   [缓存 | JuiceFS Document Center](https://juicefs.com/docs/zh/cloud/cache/#client-cache-sharing)          
+   [Google Interview Round 2 Question | My Ruminations on Software](https://lispmachine.wordpress.com/2018/02/09/google-interview-round-2-question/)           
+   [尼古拉斯·布利亚内](https://nicolasbouliane.com/)           
+   [MTU 忍者 | 文森特·伯纳特](https://vincent.bernat.ch/en/blog)           
+   [Thorsten Ball - 专业编程：前 10 年](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)           
+   [山姆奥特曼](https://blog.samaltman.com/archive)           
+   [oracle ADB](http://www.dba-oracle.com/)           
+   [Alex DeBrie - Serverless &amp; AWS](https://www.alexdebrie.com/)           
+   [关于 | 万物分布式-verner vogels](https://www.allthingsdistributed.com/about.html) **重点:amazon CTO**          
+   [Introduction to Parallel Computing Tutorial | HPC @ LLNL](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)           
+   [the jsomers.net blog](http://jsomers.net/blog/speed-matters)            
+   [詹姆斯·萨默斯](http://jsomers.net/)           
+   [编程和东西](https://refruity.xyz/)           
+   [丹尼尔·米斯勒](https://danielmiessler.com/about/)           
+   [小赖子的英国生活和资讯](https://justyy.com/archives-of-pagesposts)           
+   [The Forty-Year Programmer](https://codefol.io/posts/the-forty-year-programmer/)           
+   [Becoming a Full-Time Creator as a Software Engineer: Controversial Advice - The Pragmatic Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/) **重点：独立创业**          
+   [Rootless Root](http://www.catb.org/~esr/writings/unix-koans/index.html)          
+   [Tom Gamon | Home](https://tomgamon.com/page/2/)           
+   [Pi from High School Maths — The Art of Machinery](https://theartofmachinery.com/2020/10/26/pi_from_high_school_maths.html)            
+   [Remove unwanted objects from photos by dragging boxes](https://cleanupphotos.com/)           
+   [Jim Blandy](https://www.red-bean.com/~jimb/)           
+   [Welcome to Unicorn&#39;s Rest](http://unicornsrest.org/)           
+   [项目——亚当·沃森](https://adamwathan.me/projects/)           
+   [务实的工程师](https://www.pragmaticengineer.com/)           
+   [Employee Engagement and Change Management Blog](https://www.gapingvoid.com/blog/page/2/)          
+   [硅角](https://siliconangle.com/category/big-data/)           
+   [行政 - 关于 Jeremy Bowers - iRi](http://www.jerf.org/iri/post/2909)           
+   [公牛和贝尔德档案馆](https://blog.rwbaird.com/archive)           
+   [加密货币、区块链、比特币、Web3、NFT、元界、加密货币、诈骗的最佳网络特辑 - TravelBloggerBuzz](https://travelbloggerbuzz.com/special-on-all-things-crypto-blockchain-bitcoin-web3-nfts-metaverse-cryptocurrencies-scams/)           
+   [我喜欢的旅游博主 Buzz 博客](https://travelbloggerbuzz.com/blog-reviews/blogs-i-like/)           
+   [Justin Jaffray-分布式](https://justinjaffray.com/notes/)           
+   [Distributed Systems Articles | LinkedIn Engineering] (https://engineering.linkedin.com/blog/topic/distributed-systems)           
+   [Felix Blog - Debugging with GDB](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html)           
+   [HackTricks](https://book.hacktricks.xyz/welcome/readme)**重点：黑客book**          
+   [亚马逊AWS官方博客]https://aws.amazon.com/cn/blogs/china/2022all/)            
+   [关于Dynamo的论文](https://2cloudlab.com/nosql/the-dynamo-paper/)           
             
  
 # 我们会继续努力，一直在路上！
 
-![road](/img/road.jpg)
+![road](/img/road.jpg)          
 
