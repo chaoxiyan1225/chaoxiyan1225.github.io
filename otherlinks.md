@@ -14,7 +14,9 @@ redirect_from:
 >主要是一些国内的博客或者学校的资源信息随着
 >可惜随着时间的流逝，这部分资源会慢慢消失
 
-  * 一些博客      
+  * 一些博客    
+  
+  
     [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)           
     [酷壳 – CoolShell.cn](https://www.coolshell.cn/)           
     [刘未鹏 | Mind Hacks – 思维改变生活](http://mindhacks.cn/)           
