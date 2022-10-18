@@ -91,7 +91,7 @@ redirect_from:
    [丹尼尔·米斯勒](https://danielmiessler.com/about/)           
    [小赖子的英国生活和资讯](https://justyy.com/archives-of-pagesposts)           
    [The Forty-Year Programmer](https://codefol.io/posts/the-forty-year-programmer/)           
-   [Becoming a Full-Time Creator as a Software Engineer: Controversial Advice - The Pragmatic Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/) **重点：独立创业**          
+   [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/) **重点：独立创业**          
    [Rootless Root](http://www.catb.org/~esr/writings/unix-koans/index.html)          
    [Tom Gamon | Home](https://tomgamon.com/page/2/)           
    [Pi from High School Maths — The Art of Machinery](https://theartofmachinery.com/2020/10/26/pi_from_high_school_maths.html)            
