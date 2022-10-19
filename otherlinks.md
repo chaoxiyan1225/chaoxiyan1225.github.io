@@ -114,7 +114,7 @@ redirect_from:
    [关于Dynamo的论文](https://2cloudlab.com/nosql/the-dynamo-paper/)           
             
  
-# 我们会继续努力，一直在路上！
+# 我提供窗口，能看多远的天地，取决于你！
 
-![road](/img/road.jpg)          
+![road](/img/藏地窗口.jpg)          
 
