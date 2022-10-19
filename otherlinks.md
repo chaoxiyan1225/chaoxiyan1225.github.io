@@ -116,5 +116,5 @@ redirect_from:
  
 # 我提供窗口，能看多远的天地，取决于你！
 
-![road](/img/藏地窗口.jpg)          
+![road](/img/藏地窗口.png)          
 
