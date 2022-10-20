@@ -71,8 +71,8 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">{{ page.date | date: "%Y-%m-%d, %A  " }}</span>
-			<span id="busuanzi_container_page_pv">
-				阅读量<font color=red><span id="busuanzi_value_page_pv"></span></font>次
+			<span id="busuanzi_container_page_pv" style='display:none'>
+		             本篇阅读量<font color=red><span id="busuanzi_value_page_pv"></span></font>人次
 			</span>
 		  {% endif %}
         </div>
