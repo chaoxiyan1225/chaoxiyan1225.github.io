@@ -1,0 +1,176 @@
+package com.util;
+ 
+import org.apache.log4j.Logger;
+ 
+/**
+ * @author ycx
+ *
+ */
+public class KMPStringMatcher {
+	private static final Logger logger = Logger
+			.getLogger(KMPStringMatcher.class);
+	private char[] targetArr = null;
+	private char[] sourceArr = null;
+	private int[][] partionMatchTable = null;
+	private static final int NOT_MATCH = -1;
+	
+	public static void main(String[] args) {
+		String  target = "BBC ABCDAB ABCABCDABDDABCDABDE";
+		String  match = "ABCDABD";
+		
+		KMPStringMatcher kmp = new KMPStringMatcher(target);
+		System.out.println(kmp.find(match));
+		
+		
+	}
+ 
+	/**
+	 * 构造器
+	 * 
+	 * @param targetStr
+	 */
+	public KMPStringMatcher(String targetStr) {
+		if (targetStr == null)
+			throw new NullPointerException("target string can not be null");
+		this.targetArr = targetStr.toCharArray();
+	}
+ 
+	/**KMP算法匹配字符串的入口函数
+	 * @param match
+	 * @return
+	 */
+	public synchronized int find(String match) {
+		if (match == null)
+			throw new NullPointerException("match string can not be null");
+ 
+		char[] matchArr = match.toCharArray();
+		if (sourceArr == null || !isTwoCharArrEqual(sourceArr, matchArr)) {
+			calculatePartionMatchTable(matchArr);
+			sourceArr = matchArr;
+		}
+ 
+		if (targetArr.length < sourceArr.length)
+			return NOT_MATCH;
+ 
+		return getFirstPartionMatched(matchArr);
+ 
+	}
+ 
+	/**返回完全匹配的第一个字符位置
+	 * @param matchArr
+	 * @return
+	 */
+	private int getFirstPartionMatched(char[] matchArr) {
+		int i = 0, j = 0, moveStep = 0;
+		int firstPartion = NOT_MATCH;
+		while (j < matchArr.length && i < targetArr.length) {
+			if (matchArr[j++] != targetArr[i++]) {
+				moveStep = (j == 1) ? 1 : (j - 1 - partionMatchTable[1][j - 2]); //后移位数
+				i = i -j + moveStep;
+				j = 0;
+				continue;
+			}
+ 
+			if (j == matchArr.length) {
+				firstPartion = i - j;
+				break;
+			}
+		}
+ 
+		return firstPartion;
+ 
+	}
+ 
+	/**计算部分匹配表：算法的关键
+	 * 
+	 * @param matcherString
+	 * @return
+	 */
+	private boolean calculatePartionMatchTable(char[] match) {
+		partionMatchTable = new int[2][match.length];
+		partionMatchTable[0][0] = 0;
+		partionMatchTable[0][1] = 0;
+ 
+		int length = 0;
+		char[] a, b;
+		for (int i = 1; i < match.length; i++) {
+			length = 0;
+			for (int j = 0; j < i; j++) {
+				a = getSubArr(match, 0, j);
+				b = getSubArr(match, i - j, i);
+				if (isTwoCharArrEqual(a, b))
+					length = (a.length > length) ? a.length : length;
+			}
+ 
+			partionMatchTable[0][i] = i;
+			partionMatchTable[1][i] = length;
+		}
+ 
+		return true;
+	}
+ 
+	/** 从一个字符数组中提取从 start 开始到 end 结束的子数组
+	 * @param target
+	 * @param start
+	 * @param end
+	 * @return
+	 */
+	public static char[] getSubArr(char[] target, int start, int end) {
+		if (target == null || start < 0 || end >= target.length) {
+			return null;
+		}
+ 
+		if (target == null || target.length == 0)
+			throw new NullPointerException();
+ 
+		char[] charArr = new char[end - start + 1];
+		int count = start;
+		int targetCount = start;
+		while (count <= end)
+			charArr[(count++) - start] = target[targetCount++];
+ 
+		return charArr;
+ 
+	}
+	
+	/** 判断两个字符数组是否equal ：基于数组元素判断
+	 * @param from
+	 * @param to
+	 * @return
+	 */
+	public static boolean isTwoCharArrEqual(char[] from ,char[] to){
+		if(from == null || to == null)
+			return false ;
+		
+		if(from.length != to.length)
+			return false ;
+		
+		int i = 0;
+		int j = 0;
+		int count =0;
+		while(from[i++] == to[j++]){
+			++count ;
+			if(i >= from.length)
+				break;
+		}
+		
+		
+		return (count == from.length)?true:false;
+	
+	}
+	
+	/**替换被匹配的目标文本
+	 * @param replaceStr
+	 * @return
+	 */
+	public synchronized boolean  replaceTheTargetStr(String replaceStr){
+		if(replaceStr == null || replaceStr.equals(""))
+			throw new NullPointerException();
+		
+		this.targetArr = replaceStr.toCharArray();
+		
+		return true ;
+		
+	}
+ 
+}
