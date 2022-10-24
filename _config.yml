@@ -25,8 +25,8 @@ navbar-links:
    - 分类: "https://chaoxiyan1225.github.io/categories/"
    - 标签: "https://chaoxiyan1225.github.io/tags/"
   项目源码:
-    - GitHubHome: "https://github.com/alex-yan"
-    - C-interpreter: "https://github.com/alex-yan/write-a-C-interpreter"
+    - GitHub: "https://github.com/alex-yan"
+    - C-inter: "https://github.com/alex-yan/write-a-C-interpreter"
     - imagor: "https://github.com/alex-yan/imagor"
     #- HelloOffer: "https://github.com/alex-yan/HelloOffer"
     #- LeetCode: "https://github.com/ZoharAndroid/LeetCode"
