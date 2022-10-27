@@ -57,7 +57,9 @@ redirect_from:
     [行者无疆 始于足下](http://xiaohanyu.me/about/)           
     [fengchengyuaun的博客](https://zhu45.org/posts/2018/Mar/30/pebblesdb-building-key-value-stores-using-fragmented-log-structured-merge-trees/)          
     [Jekyll简单静态博客网站生成器](http://jekyllcn.com/docs/usage/)          
-    [LRU缓存](https://blog.csdn.net/m0_58058653/article/details/123172483)           
+    [LRU缓存](https://blog.csdn.net/m0_58058653/article/details/123172483)      
+    [matrix67](http://www.matrix67.com/)
+    [一亩三分地](https://www.1point3acres.com/bbs/)
     
 # 国外资源
 >国外可能需要翻墙，但是资源都是比较好的
