@@ -120,3 +120,11 @@ redirect_from:
 
 ![road](/img/藏地窗口.png)          
 
+#     
+<script src="https://utteranc.es/client.js"
+		repo="chaoxiyan1225/chaoxiyan1225.github.io"
+		issue-term="pathname"
+		theme="github-light"  
+		crossorigin="anonymous"
+		async />
+
