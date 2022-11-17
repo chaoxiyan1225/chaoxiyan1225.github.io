@@ -22,8 +22,8 @@ description: 分布式存储|阿里云|数据湖
 navbar-links:
   主页: "https://chaoxiyan1225.github.io/"
   博客: 
-   - 分类: "https://chaoxiyan1225.github.io/categories/"
-   - 标签: "https://chaoxiyan1225.github.io/tags/"
+   - 归档: "https://chaoxiyan1225.github.io/categories/"
+   - 分类: "https://chaoxiyan1225.github.io/tags/"
   项目源码:
     - GitHub: "https://github.com/alex-yan"
     - C-inter: "https://github.com/alex-yan/write-a-C-interpreter"
