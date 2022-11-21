@@ -60,6 +60,7 @@ redirect_from:
     [LRU缓存](https://blog.csdn.net/m0_58058653/article/details/123172483)      
     [matrix67](http://www.matrix67.com/)<br>
     [一亩三分地](https://www.1point3acres.com/bbs/)
+    [leveldb的handbook](https://leveldb-handbook.readthedocs.io/zh/latest/)
     
 # 国外资源
 >国外可能需要翻墙，但是资源都是比较好的
@@ -113,7 +114,9 @@ redirect_from:
    [Felix Blog - Debugging with GDB](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html)           
    [HackTricks](https://book.hacktricks.xyz/welcome/readme)  **重点：黑客book**          
    [亚马逊AWS官方博客](https://aws.amazon.com/cn/blogs/china/2022all/)            
-   [关于Dynamo的论文](https://2cloudlab.com/nosql/the-dynamo-paper/)           
+   [关于Dynamo的论文](https://2cloudlab.com/nosql/the-dynamo-paper/)
+   [程序员的网络音乐平台](https://musicforprogramming.net/sixtytwo/)
+   [zainrizvi个人博客](https://www.zainrizvi.io/)
             
  
 # 我提供窗口，能看多远的天地，取决于你！
