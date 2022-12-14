@@ -67,6 +67,7 @@ redirect_from:
 
  * 一些博客
  
+   [保罗格雷厄姆博客](http://paulgraham.com/)
    [Jenkov.com](http://jenkov.com/)           
    [Don Knuth&#39;s Home Page](https://www-cs-faculty.stanford.edu/~knuth/)          
    [James Hamilton](https://mvdirona.com/jrh/Work/)            
