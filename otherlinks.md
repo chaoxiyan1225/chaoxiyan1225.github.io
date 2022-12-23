@@ -28,9 +28,8 @@ redirect_from:
     [有向图强连通分量的Tarjan算法 - BYVoid](https://www.byvoid.com/zhs/blog/scc-tarjan)           
     [写点什么 | 有关jvm,scala与后端架构](http://hongjiang.info/)           
     [Do Great Things - 叶玎玎](http://yedingding.com/)              
-    [并发编程网 – ifeve.com | 让天下没有难学的技术](http://ifeve.com/)           
-    [董的博客 ](http://dongxicheng.org/)            
-    [程序人生](https://programlife.net/)           
+    [并发编程网 – ifeve.com | 让天下没有难学的技术](http://ifeve.com/)<br>         
+    [程序人生](https://programlife.net/)<br>           
     [鸟窝](https://colobu.com/)           
     [时间轴 - Jamin Zhang](https://jaminzhang.github.io/timeline/)           
     [湾区日报：关注创业与技术，每天推送5篇优质英文文章](https://wanqu.co/)           
@@ -59,7 +58,7 @@ redirect_from:
     [Jekyll简单静态博客网站生成器](http://jekyllcn.com/docs/usage/)          
     [LRU缓存](https://blog.csdn.net/m0_58058653/article/details/123172483)      
     [matrix67](http://www.matrix67.com/)<br>
-    [一亩三分地](https://www.1point3acres.com/bbs/)
+    [一亩三分地](https://www.1point3acres.com/bbs/)<br>
     [leveldb的handbook](https://leveldb-handbook.readthedocs.io/zh/latest/)
     
 # 国外资源
