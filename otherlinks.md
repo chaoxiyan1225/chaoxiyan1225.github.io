@@ -66,25 +66,25 @@ redirect_from:
 
  * 一些博客
  
-   [保罗格雷厄姆博客](http://paulgraham.com/)
-   [Jenkov.com](http://jenkov.com/)           
-   [Don Knuth&#39;s Home Page](https://www-cs-faculty.stanford.edu/~knuth/)          
-   [James Hamilton](https://mvdirona.com/jrh/Work/)            
-   [Why Disaster Happens at the Edges](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)          
-   [jyt0532&#39;s Blog · Simple Made Easy](http://jyt0532.com/)           
-   [About Me – Software the Hard way](https://software.rajivprab.com/about/)           
-   [MoreFreeze&#39;s Sanctuary](http://morefreeze.github.io/)           
-   [The 10 Most Valuable Lessons I Learned As A Developer](https://blog.oliverjumpertz.dev/the-10-most-valuable-lessons-i-learned-as-a-developer)           
-   [Cassandra Xia](https://cassandraxia.com/)           
-   [The Technium: 103 Bits of Advice I Wish I Had Known](https://enjoyment.cool/archives/Apache-Flink-%E6%BC%AB%E8%B0%88/)          
-   [IBM Developer](https://developer.ibm.com/blogs/introducing-stocktrader)           
-   [缓存 | JuiceFS Document Center](https://juicefs.com/docs/zh/cloud/cache/#client-cache-sharing)          
-   [Google Interview Round 2 Question | My Ruminations on Software](https://lispmachine.wordpress.com/2018/02/09/google-interview-round-2-question/)           
-   [尼古拉斯·布利亚内](https://nicolasbouliane.com/)           
-   [MTU 忍者 | 文森特·伯纳特](https://vincent.bernat.ch/en/blog)           
-   [Thorsten Ball - 专业编程：前 10 年](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)           
-   [山姆奥特曼](https://blog.samaltman.com/archive)           
-   [oracle ADB](http://www.dba-oracle.com/)           
+   [保罗格雷厄姆博客](http://paulgraham.com/)<br>
+   [Jenkov.com](http://jenkov.com/)<br>        
+   [Don Knuth&#39;s Home Page](https://www-cs-faculty.stanford.edu/~knuth/)<br>        
+   [James Hamilton](https://mvdirona.com/jrh/Work/)<br>          
+   [Why Disaster Happens at the Edges](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)<br>          
+   [jyt0532&#39;s Blog · Simple Made Easy](http://jyt0532.com/)<br>           
+   [About Me – Software the Hard way](https://software.rajivprab.com/about/)<br>           
+   [MoreFreeze&#39;s Sanctuary](http://morefreeze.github.io/)<br>           
+   [The 10 Most Valuable Lessons I Learned As A Developer](https://blog.oliverjumpertz.dev/the-10-most-valuable-lessons-i-learned-as-a-developer)<br>         
+   [Cassandra Xia](https://cassandraxia.com/)<br>           
+   [The Technium: 103 Bits of Advice I Wish I Had Known](https://enjoyment.cool/archives/Apache-Flink-%E6%BC%AB%E8%B0%88/)<br>       
+   [IBM Developer](https://developer.ibm.com/blogs/introducing-stocktrader)<br>        
+   [缓存 | JuiceFS Document Center](https://juicefs.com/docs/zh/cloud/cache/#client-cache-sharing)<br>        
+   [Google Interview Round 2 Question | My Ruminations on Software](https://lispmachine.wordpress.com/2018/02/09/google-interview-round-2-question/)<br>          
+   [尼古拉斯·布利亚内](https://nicolasbouliane.com/)<br>          
+   [MTU 忍者 | 文森特·伯纳特](https://vincent.bernat.ch/en/blog)<br>           
+   [Thorsten Ball - 专业编程：前 10 年](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)<br>           
+   [山姆奥特曼](https://blog.samaltman.com/archive)<br>           
+   [oracle ADB](http://www.dba-oracle.com/)<br>           
    [Alex DeBrie - Serverless &amp; AWS](https://www.alexdebrie.com/)           
    [关于 | 万物分布式-verner vogels](https://www.allthingsdistributed.com/about.html) **重点:amazon CTO**          
    [Introduction to Parallel Computing Tutorial | HPC @ LLNL](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)           
