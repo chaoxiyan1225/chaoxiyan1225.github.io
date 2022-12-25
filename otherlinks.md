@@ -117,6 +117,16 @@ redirect_from:
    [关于Dynamo的论文](https://2cloudlab.com/nosql/the-dynamo-paper/)<br>
    [程序员的网络音乐平台](https://musicforprogramming.net/sixtytwo/)<br>
    [zainrizvi个人博客](https://www.zainrizvi.io/)<br>
+   [https://collabfund.com/about/](https://collabfund.com/about/)<br>
+   [https://adamnash.blog/](https://adamnash.blog/)<br>
+   [https://www.kalzumeus.com/archive/](https://www.kalzumeus.com/archive/)<br>
+   [http://esr.ibiblio.org/](http://esr.ibiblio.org/)<br>
+   [https://foundersatwork.posthaven.com/](https://foundersatwork.posthaven.com/)<br>
+   [http://rui.juzi.bot/](http://rui.juzi.bot/)<br>
+   
+   
+   
+   
             
  
 # 我提供窗口，能看多远的天地，取决于你！
