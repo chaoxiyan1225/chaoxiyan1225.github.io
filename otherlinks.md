@@ -125,7 +125,8 @@ redirect_from:
    [http://rui.juzi.bot/](http://rui.juzi.bot/)<br>
    [https://rpdillon.net/](https://rpdillon.net/index.html)<br>
    [茱莉亚埃文斯](https://jvns.ca/projects/)<br>
-   
+   [Bonnie Eisenman](https://blog.bonnieeisenman.com/)<br>
+   [哈佛大学-詹姆斯米肯斯](https://mickens.seas.harvard.edu/research)<br>
    
             
  
