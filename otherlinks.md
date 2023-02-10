@@ -19,7 +19,7 @@ redirect_from:
   
     [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)<br>
     [酷壳 – CoolShell.cn](https://www.coolshell.cn/)<br>
-    [刘未鹏 | Mind Hacks – 思维改变生活](http://mindhacks.cn/)<br>     
+    [刘未鹏 | Mind Hacks – 思维改变生活](http://mindhacks.cn/)<br>
     [王垠-当然我在扯淡](http://www.yinwang.org/)<br>
     [云风的 BLOG](https://blog.codingnow.com/)<br>
     [王建硕 | 《旅行的艺术》是本好书](http://home.wangjianshuo.com/cn/)<br>
