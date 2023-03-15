@@ -127,6 +127,7 @@ redirect_from:
    [茱莉亚埃文斯](https://jvns.ca/projects/)<br>
    [Bonnie Eisenman](https://blog.bonnieeisenman.com/)<br>
    [哈佛大学-詹姆斯米肯斯](https://mickens.seas.harvard.edu/research)<br>
+   [艾米·布朗和格雷格·威尔逊](http://www.aosabook.org/en/intro1.html#stewart-simon)<br>
    
             
  
