@@ -129,7 +129,7 @@ redirect_from:
    [哈佛大学-詹姆斯米肯斯](https://mickens.seas.harvard.edu/research)<br>
    [艾米·布朗和格雷格·威尔逊](http://www.aosabook.org/en/intro1.html#stewart-simon)<br>
    [https://third-bit.com/blog/](https://third-bit.com/blog/)<br>
-   [乔尔谈软件开发](https://www.joelonsoftware.com/){:target="_blank"}
+   [乔尔谈软件开发](https://www.joelonsoftware.com/)
    
             
  
