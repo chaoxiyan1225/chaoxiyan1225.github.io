@@ -61,6 +61,7 @@ redirect_from:
     [一亩三分地](https://www.1point3acres.com/bbs/)<br>
     [leveldb的handbook](https://leveldb-handbook.readthedocs.io/zh/latest/)<br>
     [全能工具](http://blog.luckly-mjw.cn/tool-show/index.html)<br>
+    [阿里技术达人](https://plantegg.github.io/categories/)<br>
     
 # 国外资源
 >国外可能需要翻墙，但是资源都是比较好的
