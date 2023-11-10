@@ -131,9 +131,11 @@ redirect_from:
    [哈佛大学-詹姆斯米肯斯](https://mickens.seas.harvard.edu/research)<br>
    [艾米·布朗和格雷格·威尔逊](http://www.aosabook.org/en/intro1.html#stewart-simon)<br>
    [https://third-bit.com/blog/](https://third-bit.com/blog/)<br>
-   [乔尔谈软件开发](https://www.joelonsoftware.com/)
+   [乔尔谈软件开发](https://www.joelonsoftware.com/)<br>
+   [松松脸](https://www.shruggingface.com/blog/self-portraits-with-stable-diffusion-and-lora)<br>
+   [托尼.丁创业](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)<br>
    
-            
+   
  
 # 我提供窗口，能看多远的天地，取决于你！
 
