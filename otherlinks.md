@@ -63,6 +63,7 @@ redirect_from:
     [全能工具](http://blog.luckly-mjw.cn/tool-show/index.html)<br>
     [阿里技术达人](https://plantegg.github.io/categories/)<br>
     [hadoop大数据](https://mryqu.github.io/)<br>
+    [测试博客集合](https://testerhome.com/articles/31284?order_by=created_at&)<br>
     
 # 国外资源
 >国外可能需要翻墙，但是资源都是比较好的
@@ -135,6 +136,10 @@ redirect_from:
    [乔尔谈软件开发](https://www.joelonsoftware.com/)<br>
    [松松脸](https://www.shruggingface.com/blog/self-portraits-with-stable-diffusion-and-lora)<br>
    [托尼.丁创业](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)<br>
+   [earthly-创业](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)<br>
+   [抓包工具mitmproxy](https://docs.mitmproxy.org/stable/)<br>
+
+   
    
    
  
