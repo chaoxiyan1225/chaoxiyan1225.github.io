@@ -138,10 +138,10 @@ redirect_from:
    [托尼.丁创业](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)<br>
    [earthly-创业](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)<br>
    [抓包工具mitmproxy](https://docs.mitmproxy.org/stable/)<br>
+   [YC 创业公司合集](https://www.ycombinator.com/apply)<br>
+   [mitmproxy一个代理抓包工具:很有用](https://mitmproxy.org/)<br>
 
-   
-   
-   
+
  
 # 我提供窗口，能看多远的天地，取决于你！
 
