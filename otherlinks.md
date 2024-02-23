@@ -141,6 +141,8 @@ redirect_from:
    [YC 创业公司合集](https://www.ycombinator.com/apply)<br>
    [mitmproxy一个代理抓包工具:很有用](https://mitmproxy.org/)<br>
    [一个老外博士的创意集合/](https://schollz.com/wares/)<br>
+   [80-20岁](https://eighty-twenty.org/tag/tech/)<br>
+
 
 
  
