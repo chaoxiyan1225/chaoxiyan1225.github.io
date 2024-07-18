@@ -64,6 +64,7 @@ redirect_from:
     [阿里技术达人](https://plantegg.github.io/categories/)<br>
     [hadoop大数据](https://mryqu.github.io/)<br>
     [测试博客集合](https://testerhome.com/articles/31284?order_by=created_at&)<br>
+    [https://v2ex.com/](https://v2ex.com/)<br>
     
 # 国外资源
 >国外可能需要翻墙，但是资源都是比较好的
