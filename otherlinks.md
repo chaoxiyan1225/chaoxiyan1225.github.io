@@ -143,6 +143,7 @@ redirect_from:
    [mitmproxy一个代理抓包工具:很有用](https://mitmproxy.org/)<br>
    [一个老外博士的创意集合/](https://schollz.com/wares/)<br>
    [80-20岁](https://eighty-twenty.org/tag/tech/)<br>
+   [jvns](https://jvns.ca/)<br>
 
 
 
