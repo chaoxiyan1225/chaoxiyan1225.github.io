@@ -145,7 +145,7 @@ redirect_from:
    [80-20岁](https://eighty-twenty.org/tag/tech/)<br>
    [jvns](https://jvns.ca/)<br>
    [分布式一致性](https://jepsen.io/consistency)<br>
-
+   [mixu创意集](https://github.com/mixu)<br>
 
 
 # 我提供窗口，能看多远的天地，取决于你！
